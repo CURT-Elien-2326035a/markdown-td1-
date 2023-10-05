@@ -1,7 +1,7 @@
 lores des champions de la league des légendes:
 
 
-SION LORE:
+SION LORE:[color=#ff2d00]
 
 
 
@@ -98,9 +98,9 @@ DU SANG.
 
 
 
-VS
+VS [color=#e90ae6]
 
-RAMMUS LORE:
+RAMMUS LORE: [color=#39ad32]
 
 
 
