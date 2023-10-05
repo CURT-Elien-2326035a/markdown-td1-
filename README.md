@@ -1,4 +1,4 @@
-	** HISTOIRE DU JEU VIDEO**
+** HISTOIRE DU JEU VIDEO**
 
 
 amogus
