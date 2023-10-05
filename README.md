@@ -1,9 +1,6 @@
-lores des champions de la league des légendes:
+__lores des champions de la league des légendes:__
 
-
-SION LORE:[color=#ff2d00]
-
-
+__SION LORE:__
 
 CETTE ODEUR.
 
@@ -93,19 +90,9 @@ LIBÉREZ-MOI !
 
 DU SANG.
 
+__VS__
 
-
-
-
-
-VS [color=#e90ae6]
-
-RAMMUS LORE: [color=#39ad32]
-
-
-
-
-
+__RAMMUS LORE:__ 
 
 Le couteau d'Ojan donnait au morceau de bois une ligne doucement incurvée. À huit ans, il n'était pas le plus expérimenté des artisans, mais son travail commençait à prendre la forme d'une boule épineuse.
 
@@ -200,3 +187,9 @@ La famille le regarda disparaître à l'horizon.
 Ojan courut derrière lui pour récupérer les morceaux brisés de la petite statue. Il les empocha et s'inclina pour saluer.
 
 « Un porte-bonheur ! » s'exclama-t-il.
+
+
+
+
+sources:
+lores champions('https://universe.leagueoflegends.com/fr_FR/champion/') 
