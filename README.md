@@ -2,6 +2,9 @@ lores des champions de la league des légendes:
 
 
 SION LORE:
+
+
+
 CETTE ODEUR.
 
 DU SANG.
@@ -91,9 +94,18 @@ LIBÉREZ-MOI !
 DU SANG.
 
 
+
+
+
+
 VS
 
 RAMMUS LORE:
+
+
+
+
+
 
 Le couteau d'Ojan donnait au morceau de bois une ligne doucement incurvée. À huit ans, il n'était pas le plus expérimenté des artisans, mais son travail commençait à prendre la forme d'une boule épineuse.
 
