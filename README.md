@@ -1,5 +1,6 @@
 # Lores des champions dans League Of Legendes:
 
+---
 
 #### Sommaire
 * [Sion](#sion)
