@@ -192,7 +192,7 @@ Ojan courut derrière lui pour récupérer les morceaux brisés de la petite sta
 
 > "Okay."
 
-## Liste des sorts : {#my-explicit-id}
+## Liste des sorts : 
 
 > **Passif**
 >> **Spiked shell** : Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure.
