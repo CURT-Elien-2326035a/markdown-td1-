@@ -1,7 +1,7 @@
 __lores des champions de la league des légendes:__
 
 
- [sorts rammus](## Liste des sorts : )
+ [sorts rammus](## Liste des sorts )
 
 __SION LORE:__
 
