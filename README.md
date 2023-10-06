@@ -2,11 +2,14 @@
 
 ---
 
-## Sommaire
-* [Sion](#sion)
-* [Rammus](#rammus)
-	* [Histoire](#hist_rammus)
-	* [Sorts](#sorts_rammus)
+> ## Sommaire
+> 
+> * [Sion](#sion)
+> * [Rammus](#rammus)
+>	* [Histoire](#hist_rammus)
+>	* [Sorts](#sorts_rammus)
+> * [Exemples en jeu](#examples_ingames)
+
 
 ---
 ## SION : <a name="sion"></a>
@@ -39,7 +42,7 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 
 > "Okay."
 
-## Liste des sorts en jeu<a name="sorts_rammus"></a> [*](#def0) :  
+## Liste des sorts en jeu :  <a name="sorts_rammus"></a>  
 > **Passif**
 >>  - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32"> **Carapace cloutée** : Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure. 
 >
@@ -55,17 +58,19 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 > **R**
 >> - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125" width="32" height="32"> **Frappe ascendante** : Rammus bondit dans les airs et retombe violemment à l'endroit ciblé, ce qui inflige des dégâts magiques et ralentit les ennemis. Si Frappe ascendante est lancée alors que Démolisseur est actif, les ennemis près du centre de la zone sont également projetés dans les airs.
 
-### Exemple en jeu : 
->
-> - **Démolisseur** :
->> <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/1333d5db-3e9e-4adc-9d74-3b47d138638d" width="264" height="180">
+---
+
+## Exemple en jeu : <a name="examples_ingames"></a>
+
+Touche | Sion | Rammus
+:-----:|------|-------
+Q      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/5e5fea71-782a-44bb-9771-f8611fe0c56a" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/1333d5db-3e9e-4adc-9d74-3b47d138638d" width="264" height="180">
+W      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/8e6bdf3c-9e13-4fe4-b1d7-e0ee15ba4a8e" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/a080fcbf-8739-412d-928d-89c0dfe22b84" width="264" height="180">
+E      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/2e07e694-a949-4c0a-8da2-035dcd4508c2" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/deeb0121-8b3b-4204-8b2e-11203b567c6e" width="264" height="180">
+R      | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmczduMHVmbW5tYmw1aTV6d2p1NWJieDczMWNtMnl3N29zaDNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzuRQJDkk8336xuZsa/giphy-downsized-large.gif" width="264" height="180">      | <img src="https://media.giphy.com/media/3GBnxeQyeq9FBCaWEx/giphy-downsized.gif" width="264" height="180">
 
 
 
-
-
-
-**Les lettres dans la liste correspondes aux touches du clavier correspondantes a chaques sorts* <a name="def0"></a>
-
-sources:
-lores champions('https://universe.leagueoflegends.com/fr_FR/champion/') 
+Sources:
+- Lores Champions : https://universe.leagueoflegends.com/fr_FR/champion/
+- leagues Of Legends : https://www.leagueoflegends.com
