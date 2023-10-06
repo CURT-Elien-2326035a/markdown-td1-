@@ -1,5 +1,9 @@
 __lores des champions de la league des légendes:__
 
+
+toc_min_heading_level: 2
+toc_max_heading_level: 5
+
 __SION LORE:__
 
 "violence"
