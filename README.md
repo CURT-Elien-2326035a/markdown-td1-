@@ -43,20 +43,25 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 > "Okay."
 
 ## Liste des sorts en jeu :  <a name="sorts_rammus"></a>  
-> **Passif**
->>  - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32"> **Carapace cloutée** : Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure. 
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32"> **Passif**  
+> ### **Carapace cloutée** :
+>  Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure. 
 >
-> **Q**
->> - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Rammus_Powerball.png/revision/latest?cb=20150312023510" width="32" height="32"> **Démolisseur** : Rammus fonce comme une balle vers les ennemis, infligeant des dégâts et ralentissant les cibles touchées.
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Rammus_Powerball.png/revision/latest?cb=20150312023510" width="32" height="32"> **Q**  
+> ### **Démolisseur** :
+>  Rammus fonce comme une balle vers les ennemis, infligeant des dégâts et ralentissant les cibles touchées.
 >
-> **W**
->> - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Rammus_Defensive_Ball_Curl.png/revision/latest?cb=20150312020949" width="32" height="32"> **Boule défensive** : Rammus prend une posture défensive. Son armure et sa résistance magique sont grandement augmentées, les dégâts de Carapace cloutée sont augmentés et Rammus renvoie des dégâts aux ennemis qui lui lancent des attaques de base.
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Rammus_Defensive_Ball_Curl.png/revision/latest?cb=20150312020949" width="32" height="32"> **W**  
+> ### **Boule défensive** :
+>  Rammus prend une posture défensive. Son armure et sa résistance magique sont grandement augmentées, les dégâts de Carapace cloutée sont augmentés et Rammus renvoie des dégâts aux ennemis qui lui lancent des attaques de base.
 >
-> **E**
->>  - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Rammus_Frenzying_Taunt.png/revision/latest?cb=20170308195431" width="32" height="32"> **Provocation frénétique** : Rammus provoque un champion ennemi ou un monstre, l'obligeant à s'acharner contre sa carapace. Il augmente aussi sa vitesse d'attaque pendant un court instant, mais ce bonus est prolongé quand n'importe quel autre de ses sorts est actif.
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Rammus_Frenzying_Taunt.png/revision/latest?cb=20170308195431" width="32" height="32"> **E**  
+> ### **Provocation frénétique** :
+>  Rammus provoque un champion ennemi ou un monstre, l'obligeant à s'acharner contre sa carapace. Il augmente aussi sa vitesse d'attaque pendant un court instant, mais ce bonus est prolongé quand n'importe quel autre de ses sorts est actif.
 >
-> **R**
->> - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125" width="32" height="32"> **Frappe ascendante** : Rammus bondit dans les airs et retombe violemment à l'endroit ciblé, ce qui inflige des dégâts magiques et ralentit les ennemis. Si Frappe ascendante est lancée alors que Démolisseur est actif, les ennemis près du centre de la zone sont également projetés dans les airs.
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125" width="32" height="32"> **R**  
+> ### **Frappe ascendante** :
+>  Rammus bondit dans les airs et retombe violemment à l'endroit ciblé, ce qui inflige des dégâts magiques et ralentit les ennemis. Si Frappe ascendante est lancée alors que Démolisseur est actif, les ennemis près du centre de la zone sont également projetés dans les airs.
 
 ---
 
