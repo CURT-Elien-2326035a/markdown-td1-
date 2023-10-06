@@ -62,7 +62,7 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 
 ## Exemple en jeu : <a name="examples_ingames"></a>
 
-Touche | Sion | Rammus
+Touches | Sion | Rammus
 :-----:|------|-------
 Q      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/5e5fea71-782a-44bb-9771-f8611fe0c56a" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/1333d5db-3e9e-4adc-9d74-3b47d138638d" width="264" height="180">
 W      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/8e6bdf3c-9e13-4fe4-b1d7-e0ee15ba4a8e" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/a080fcbf-8739-412d-928d-89c0dfe22b84" width="264" height="180">
