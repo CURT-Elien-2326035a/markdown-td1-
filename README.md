@@ -54,7 +54,15 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 >
 > **R**
 >> - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125" width="32" height="32"> **Frappe ascendante** : Rammus bondit dans les airs et retombe violemment à l'endroit ciblé, ce qui inflige des dégâts magiques et ralentit les ennemis. Si Frappe ascendante est lancée alors que Démolisseur est actif, les ennemis près du centre de la zone sont également projetés dans les airs.
+
+### Exemple en jeu : 
 >
+> - **Démolisseur** :
+>> <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/1333d5db-3e9e-4adc-9d74-3b47d138638d" width="264" height="180">
+
+
+
+
 
 
 **Les lettres dans la liste correspondes aux touches du clavier correspondantes a chaques sorts* <a name="def0"></a>
