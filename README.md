@@ -1,11 +1,7 @@
 __lores des champions de la league des légendes:__
 
 
-<details>
-           <summary>SOMMAIRE</summary>
-           <p>Markup : [text goes here](#section_name)
-          Liste des sorts<a name="sort de rammus"></a>    </p>
-         </details>
+           <p>Markup : [sorts rammus](## Liste des sorts : )
 
 __SION LORE:__
 
