@@ -2,12 +2,13 @@
 
 ---
 
-## Sommaire
-* [Sion](#sion)
+<details>
+  <summary>## Sommaire</summary>
+  <p>* [Sion](#sion)
 * [Rammus](#rammus)
 	* [Histoire](#hist_rammus)
-	* [Sorts](#sorts_rammus)
-
+	* [Sorts](#sorts_rammus)</p>
+</details>
 ---
 ## SION : <a name="sion"></a>
 
