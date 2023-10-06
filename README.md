@@ -4,10 +4,10 @@
 
 <details>
   <summary>## Sommaire</summary>
-  <p>* [Sion](#sion)
-* [Rammus](#rammus)
-	* [Histoire](#hist_rammus)
-	* [Sorts](#sorts_rammus)</p>
+  <p> * [Sion](#sion)  <p>
+ <p>* [Rammus](#rammus) <p>
+	 <p>* [Histoire](#hist_rammus) <p>
+	 <p>* [Sorts](#sorts_rammus)</p> <p>
 </details>
 ---
 ## SION : <a name="sion"></a>
