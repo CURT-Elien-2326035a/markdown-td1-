@@ -1,4 +1,4 @@
-# __lores des champions dans League Of Legendes:__
+# Lores des champions dans League Of Legendes:
 
 
 #### Sommaire
