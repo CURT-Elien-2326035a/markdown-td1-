@@ -1,7 +1,7 @@
 __lores des champions de la league des légendes:__
 
 
- [sorts rammus](## Liste des sorts )
+ [sorts rammus](rammus)
 
 __SION LORE:__
 
@@ -19,7 +19,7 @@ __RAMMUS LORE:__
 
 > "Okay."
 
-## Liste des sorts : 
+## Liste des sorts :   <a name="rammus"></a>
 
 > - **Passif**
 >> **Spiked shell** : Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure.
