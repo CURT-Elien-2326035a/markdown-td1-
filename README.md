@@ -126,7 +126,8 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 ## Exemple en jeu : <a name="examples_ingames"></a>
 
 Touches | Sion | Rammus
-:-----:|------|-------
+:-----:|:------:|:-------:
+Passif | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/769364d5-2584-485e-b30c-38c2b78ea682" width=264 height="180">        | <img src="https://3.bp.blogspot.com/-tgcfFTOwlV8/WxGrCx_GmtI/AAAAAAABA1Q/CMFQdvzCOtkLhT56z7ZT1JQ_lOPRlSWTQCLcBGAs/s1600/7a102c939fd239aa.png" width="128" height="128">   *Aucune images disponible*          
 Q      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/5e5fea71-782a-44bb-9771-f8611fe0c56a" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/1333d5db-3e9e-4adc-9d74-3b47d138638d" width="264" height="180">
 W      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/8e6bdf3c-9e13-4fe4-b1d7-e0ee15ba4a8e" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/a080fcbf-8739-412d-928d-89c0dfe22b84" width="264" height="180">
 E      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/2e07e694-a949-4c0a-8da2-035dcd4508c2" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/deeb0121-8b3b-4204-8b2e-11203b567c6e" width="264" height="180">
