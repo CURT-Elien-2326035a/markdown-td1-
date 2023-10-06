@@ -34,7 +34,7 @@ A Remplir
 ## Liste des sorts en jeu :  <a name="sorts_sion"></a> 
  **Passif**  
  <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Sion_Glory_in_Death.png/revision/latest?cb=20170818194247" width="32" height="32">
-> ### **GLOIRE POSTHUME** : 
+> ### [**GLOIRE POSTHUME**](#examples_ingames) : 
 >  Après avoir été tué, Sion revient temporairement à la vie, mais ses PV diminuent rapidement. Ses attaques deviennent très rapides, soignent Sion et infligent des dégâts supplémentaires en fonction des PV max de la cible.
 >
  **Q**  
@@ -96,7 +96,7 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 ## Liste des sorts en jeu :  <a name="sorts_rammus"></a>  
  **Passif**  
  <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32">
-> ### **Carapace cloutée** :
+> ### [**Carapace cloutée**](#examples_ingames) :
 >  Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure. 
 >
  **Q**  
