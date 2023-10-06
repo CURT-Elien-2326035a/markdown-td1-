@@ -8,19 +8,18 @@
 	* [Sorts](#sorts_rammus)
 
 ---
-__SION LORE:__ <a name="sion"></a>
+## SION LORE: <a name="sion"></a>
 
 "violence"
 ![Sion_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/e0a5833e-87aa-42db-b80c-cdbbc5b5dfe3)
 
----
 
-__RAMMUS :__  <a name="rammus"></a>
+## RAMMUS :  <a name="rammus"></a>
 
 "Tatou blindé"
 ![Rammus_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/a0430fed-8e51-411d-ab08-5223a886334e)
 
-__LORE DE RAMMUS :__  <a name="hist_rammus"></a>
+### LORE DE RAMMUS :  <a name="hist_rammus"></a>
 
 ~~~
 Beaucoup l'idolâtrent, certains le méprisent, mais tous restent perplexes devant l'énigmatique Rammus. 
