@@ -1,8 +1,10 @@
 __lores des champions de la league des légendes:__
 
 
-toc_min_heading_level: 2
-toc_max_heading_level: 5
+<details>
+           <summary>SOMMAIRE</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 
 __SION LORE:__
 
