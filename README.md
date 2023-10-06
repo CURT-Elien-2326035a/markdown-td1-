@@ -39,7 +39,7 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 
 > "Okay."
 
-## Liste des sorts en jeu<a name="sorts_rammus"></a>[*](#def0) :  
+## Liste des sorts en jeu<a name="sorts_rammus"></a> [*](#def0) :  
 > **Passif**
 >>  - <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32"> **Carapace cloutée** : Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure. 
 >
