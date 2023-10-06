@@ -2,13 +2,15 @@
 
 ---
 
-> ## Sommaire
-> 
-> * [Sion](#sion)
-> * [Rammus](#rammus)
->	* [Histoire](#hist_rammus)
->	* [Sorts](#sorts_rammus)
-> * [Exemples en jeu](#examples_ingames)
+ ## Sommaire
+ 
+ * [Sion](#sion)
+   * [Histoire](#hist_sion)
+   * [Sorts](#sorts_sion)
+ * [Rammus](#rammus)
+	  * [Histoire](#hist_rammus)
+  	* [Sorts](#sorts_rammus)
+ *  [Exemples en jeu](#examples_ingames)
 
 
 ---
@@ -17,11 +19,55 @@
 "Le Colosse Mort-Vivant"
 ![Sion_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/e0a5833e-87aa-42db-b80c-cdbbc5b5dfe3)
 
+### LORE DE Sion :  <a name="hist_sion"></a>
+
+~~~
+A Remplir
+~~~
+
+<!--- Réplique Sion --->
+
+### Réplique célébre : 
+
+> "Réplique"
+
+## Liste des sorts en jeu :  <a name="sorts_sion"></a> 
+ **Passif**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Sion_Glory_in_Death.png/revision/latest?cb=20170818194247" width="32" height="32">
+> ### **GLOIRE POSTHUME** : 
+>  Après avoir été tué, Sion revient temporairement à la vie, mais ses PV diminuent rapidement. Ses attaques deviennent très rapides, soignent Sion et infligent des dégâts supplémentaires en fonction des PV max de la cible.
+>
+ **Q**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Sion_Death_Surge.png/revision/latest?cb=20141001175051" width="32" height="32">
+> ### [**FRACAS MEURTRIER**](#examples_ingames) :
+>  Sion charge un coup puissant qui s'abattra dans une zone devant lui, infligeant des dégâts aux ennemis quand il relâche l'attaque. S'il charge assez longtemps, il projettera en l'air et étourdira les ennemis touchés.
+>
+ **W**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Sion_Decimating_Smash.png/revision/latest?cb=20170818194232" width="32" height="32">
+> ### [**FEU INTÉRIEUR**](#examples_ingames) :
+>  Sion s'entoure d'un bouclier et peut réactiver le sort au bout de 3 sec pour infliger des dégâts magiques aux ennemis proches. Quand Sion tue des ennemis, ses PV max sont passivement augmentés.
+>
+ **E**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Sion_Roar_of_the_Slayer.png/revision/latest?cb=20170818194259" width="32" height="32">
+> ### [**CRI DU TUEUR**](#examples_ingames) :
+>  Sion envoie une courte onde de choc qui blesse et ralentit le premier ennemi touché tout en réduisant son armure. Si l'onde de choc atteint un sbire ou un monstre, celui-ci est projeté vers l'arrière : tous les ennemis qu'il touche subissent des dégâts, sont ralentis et perdent de l'armure.
+>
+ **R**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Sion_Unstoppable_Onslaught.png/revision/latest?cb=20170818194344" width="32" height="32">
+> ### [**ASSAUT INARRÊTABLE**](#examples_ingames) :
+>  Sion charge dans une direction, accélérant peu à peu. Il peut légèrement changer de trajectoire en déplaçant le curseur de la souris. Quand il percute un ennemi, il lui inflige des dégâts et le projette en l'air en fonction de la distance parcourue par sa charge.
+
+---
+
+<!--- Rammus ---->
+
 
 ## RAMMUS :  <a name="rammus"></a>
 
 "Le Tatou blindé"
 ![Rammus_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/a0430fed-8e51-411d-ab08-5223a886334e)
+
+<!--- Lore Rammus ---->
 
 ### LORE DE RAMMUS :  <a name="hist_rammus"></a>
 
@@ -38,32 +84,44 @@ D'autres affirment qu'il est le dernier représentant d'une espèce agonisante q
 région avant que les Guerres Runiques ne noient le désert sous des vagues de magie incontrôlée.
 ~~~
 
+<!--- Réplique ---->
+
 ### Réplique célébre :
 
-> "Okay."
+> "Okay."  
+> <img src="https://3.bp.blogspot.com/-tgcfFTOwlV8/WxGrCx_GmtI/AAAAAAABA1Q/CMFQdvzCOtkLhT56z7ZT1JQ_lOPRlSWTQCLcBGAs/s1600/7a102c939fd239aa.png" width="128" height="128">
+
+<!--- Sorts Rammus ---->
 
 ## Liste des sorts en jeu :  <a name="sorts_rammus"></a>  
- <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32"> **Passif**  
+ **Passif**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Rammus_Spiked_Shell.png/revision/latest?cb=20150312023232" width="32" height="32">
 > ### **Carapace cloutée** :
 >  Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure. 
 >
- <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Rammus_Powerball.png/revision/latest?cb=20150312023510" width="32" height="32"> **Q**  
-> ### **Démolisseur** :
+ **Q**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Rammus_Powerball.png/revision/latest?cb=20150312023510" width="32" height="32">
+> ### [**Démolisseur**](#examples_ingames) :
 >  Rammus fonce comme une balle vers les ennemis, infligeant des dégâts et ralentissant les cibles touchées.
 >
- <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Rammus_Defensive_Ball_Curl.png/revision/latest?cb=20150312020949" width="32" height="32"> **W**  
-> ### **Boule défensive** :
+ **W**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Rammus_Defensive_Ball_Curl.png/revision/latest?cb=20150312020949" width="32" height="32">
+> ### [**Boule défensive**](#examples_ingames) :
 >  Rammus prend une posture défensive. Son armure et sa résistance magique sont grandement augmentées, les dégâts de Carapace cloutée sont augmentés et Rammus renvoie des dégâts aux ennemis qui lui lancent des attaques de base.
 >
- <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Rammus_Frenzying_Taunt.png/revision/latest?cb=20170308195431" width="32" height="32"> **E**  
-> ### **Provocation frénétique** :
+ **E**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Rammus_Frenzying_Taunt.png/revision/latest?cb=20170308195431" width="32" height="32">
+> ### [**Provocation frénétique**](#examples_ingames) :
 >  Rammus provoque un champion ennemi ou un monstre, l'obligeant à s'acharner contre sa carapace. Il augmente aussi sa vitesse d'attaque pendant un court instant, mais ce bonus est prolongé quand n'importe quel autre de ses sorts est actif.
 >
- <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125" width="32" height="32"> **R**  
-> ### **Frappe ascendante** :
+ **R**  
+ <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png/revision/latest?cb=20150312023125" width="32" height="32">
+> ### [**Frappe ascendante**](#examples_ingames) :
 >  Rammus bondit dans les airs et retombe violemment à l'endroit ciblé, ce qui inflige des dégâts magiques et ralentit les ennemis. Si Frappe ascendante est lancée alors que Démolisseur est actif, les ennemis près du centre de la zone sont également projetés dans les airs.
 
 ---
+
+<!--- Exemple en jeu ---->
 
 ## Exemple en jeu : <a name="examples_ingames"></a>
 
