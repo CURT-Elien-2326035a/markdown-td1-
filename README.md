@@ -58,9 +58,5 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 
 
 
-
-
-
-
 sources:
 lores champions('https://universe.leagueoflegends.com/fr_FR/champion/') 
