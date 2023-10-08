@@ -1,4 +1,4 @@
-# Lores des champions dans League Of Legendes:
+# Lores et sorts des chamions que nous jouons le plus :
 
 ---
 
@@ -19,17 +19,14 @@
 "Le Colosse Mort-Vivant"
 ![Sion_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/e0a5833e-87aa-42db-b80c-cdbbc5b5dfe3)
 
-### LORE DE Sion :  <a name="hist_sion"></a>
+### LORE DE SION :  <a name="hist_sion"></a>
 
 ~~~
-A Remplir
+Guerrier sanguinaire d'une époque révolue, Sion était célébré comme un héros à Noxus, pour avoir étouffé un roi de Demacia de ses mains nues.
+Il était l'objet d'une telle dévotion qu'on lui refusa le repos éternel, en le ramenant à la vie pour continuer à servir son empire.
+Il massacre sans distinction alliés comme ennemis sur son chemin, prouvant à cette occasion qu'il n'a plus rien d'humain.
+Son armure rivetée à même la chair, Sion charge sans relâche au combat, luttant entre deux coups de sa puissante hache pour tenter de se remémorer qui il était.
 ~~~
-
-<!--- Réplique Sion --->
-
-### Réplique célébre : 
-
-> "Réplique"
 
 ## Liste des sorts en jeu :  <a name="sorts_sion"></a> 
  **Passif**  
@@ -134,7 +131,8 @@ E      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/1
 R      | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmczduMHVmbW5tYmw1aTV6d2p1NWJieDczMWNtMnl3N29zaDNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzuRQJDkk8336xuZsa/giphy-downsized-large.gif" width="264" height="180">      | <img src="https://media.giphy.com/media/3GBnxeQyeq9FBCaWEx/giphy-downsized.gif" width="264" height="180">
 
 
-
-Sources:
-- Lores Champions : https://universe.leagueoflegends.com/fr_FR/champion/
-- leagues Of Legends : https://www.leagueoflegends.com
+<details>
+  <summary> Sources : </summary>
+    <p> - Lores Champions : https://universe.leagueoflegends.com/fr_FR/champion/ </p>
+    <p> - leagues Of Legends : https://www.leagueoflegends.com </p>
+</details>
