@@ -17,7 +17,7 @@
 ## SION : <a name="sion"></a>
 
 "Le Colosse Mort-Vivant"
-![Sion_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/e0a5833e-87aa-42db-b80c-cdbbc5b5dfe3)
+![Sion_0](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg)
 
 ### LORE DE SION :  <a name="hist_sion"></a>
 
@@ -62,7 +62,7 @@ Son armure rivetée à même la chair, Sion charge sans relâche au combat, lutt
 ## RAMMUS :  <a name="rammus"></a>
 
 "Le Tatou blindé"
-![Rammus_0](https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/145133444/a0430fed-8e51-411d-ab08-5223a886334e)
+![Rammus_0](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg)
 
 <!--- Lore Rammus ---->
 
@@ -124,10 +124,10 @@ région avant que les Guerres Runiques ne noient le désert sous des vagues de m
 
 Touches | Sion | Rammus
 :-----:|:------:|:-------:
-Passif | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/769364d5-2584-485e-b30c-38c2b78ea682" width=264 height="180">        | <img src="https://3.bp.blogspot.com/-tgcfFTOwlV8/WxGrCx_GmtI/AAAAAAABA1Q/CMFQdvzCOtkLhT56z7ZT1JQ_lOPRlSWTQCLcBGAs/s1600/7a102c939fd239aa.png" width="128" height="128">   *Aucune images disponible*          
-Q      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/5e5fea71-782a-44bb-9771-f8611fe0c56a" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/1333d5db-3e9e-4adc-9d74-3b47d138638d" width="264" height="180">
-W      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/8e6bdf3c-9e13-4fe4-b1d7-e0ee15ba4a8e" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/a080fcbf-8739-412d-928d-89c0dfe22b84" width="264" height="180">
-E      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/2e07e694-a949-4c0a-8da2-035dcd4508c2" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/deeb0121-8b3b-4204-8b2e-11203b567c6e" width="264" height="180">
+Passif | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRzMjYxYWJ4YThjMHNqOGt6OGpiNHdqcGlzb21vcjh2emVleDltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5OIcwXdAA6UMzH5YXi/giphy.gif" width=264 height="180">        | <img src="https://3.bp.blogspot.com/-tgcfFTOwlV8/WxGrCx_GmtI/AAAAAAABA1Q/CMFQdvzCOtkLhT56z7ZT1JQ_lOPRlSWTQCLcBGAs/s1600/7a102c939fd239aa.png" width="128" height="128">   *Aucune images disponible*          
+Q      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/c1beea2c-8eba-4cd4-a9dd-9a19050e3bb5" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/5f72eacd-0b6e-4044-b9a0-fdd5ec9d1c76" width="264" height="180">
+W      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/bae9cb73-6c97-40d0-b8c4-24cbdec07bdb" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/b8dc86c4-1206-4300-812f-6a86c3ea1bf1" width="264" height="180">
+E      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/d326efa9-0da4-47d9-9716-345acf835479" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/642fc4fe-ff82-4b78-bfff-1fc6f531e784" width="264" height="180">
 R      | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmczduMHVmbW5tYmw1aTV6d2p1NWJieDczMWNtMnl3N29zaDNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzuRQJDkk8336xuZsa/giphy-downsized-large.gif" width="264" height="180">      | <img src="https://media.giphy.com/media/3GBnxeQyeq9FBCaWEx/giphy-downsized.gif" width="264" height="180">
 
 ---
@@ -137,3 +137,12 @@ R      | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmczduMHVm
     <p> - Lores Champions : https://universe.leagueoflegends.com/fr_FR/champion/ </p>
     <p> - leagues Of Legends : https://www.leagueoflegends.com </p>
 </details>
+
+
+
+
+
+
+
+
+
