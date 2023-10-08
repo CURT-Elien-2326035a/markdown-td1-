@@ -1,4 +1,4 @@
-# Lores et sorts des chamions que nous jouons le plus :
+# Lores et sorts des champions que nous jouons le plus :
 
 ---
 
