@@ -130,6 +130,7 @@ W      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/1
 E      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/2e07e694-a949-4c0a-8da2-035dcd4508c2" width="264" height="180">      | <img src="https://github.com/CURT-Elien-2326035a/markdown-td1-/assets/146091700/deeb0121-8b3b-4204-8b2e-11203b567c6e" width="264" height="180">
 R      | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmczduMHVmbW5tYmw1aTV6d2p1NWJieDczMWNtMnl3N29zaDNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzuRQJDkk8336xuZsa/giphy-downsized-large.gif" width="264" height="180">      | <img src="https://media.giphy.com/media/3GBnxeQyeq9FBCaWEx/giphy-downsized.gif" width="264" height="180">
 
+---
 
 <details>
   <summary> Sources : </summary>
